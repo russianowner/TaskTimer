@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+data/
+*.user
+*.vspscc
+.vs/
+.DS_Store
+Thumbs.db
+tasks.json
